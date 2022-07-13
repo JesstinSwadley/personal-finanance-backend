@@ -1,0 +1,19 @@
+{
+  "name": "personal-finance-app-backend",
+  "version": "0.0.1",
+  "description": "The backend for a personal finance application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JesstinSwadley/personal-finanance-backend.git"
+  },
+  "author": "Jesstin Swadley",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JesstinSwadley/personal-finanance-backend/issues"
+  },
+  "homepage": "https://github.com/JesstinSwadley/personal-finanance-backend#readme"
+}
